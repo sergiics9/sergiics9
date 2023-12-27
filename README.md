@@ -45,7 +45,7 @@
         <p>:gear: React, Next.js, Redux, Angular</p>
        <p>:eye: SASS, CSS, Bootstrap</p>
         <p>:minidisc: MongoDB, Node.js , Mongoose, Express</p>
-        <p>:warning: Unit Testing, Jest, Figma</p>
+        <p>:warning: Unit Testing, Jest</p>
       <br/>
     </details>
     <details>
@@ -57,7 +57,7 @@
     <details> 
       <summary>My Most Used Languages</summary>
         <br/>
-          <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiics9&layout=compact&hide_border=true&theme=nord"/>
+          <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiics9&layout=compact&hide_border=true"/>
         <br/>
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
       <br/>
