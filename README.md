@@ -57,7 +57,7 @@
     <details> 
       <summary>My Most Used Languages</summary>
         <br/>
-          <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiics9&layout=compact&hide_border=true&theme=dracula"/>
+          <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiics9&layout=compact&hide_border=true&theme=radical"/>
         <br/>
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
       <br/>
