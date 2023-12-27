@@ -51,7 +51,7 @@
     <details>
   <summary>My Profile Stats</summary>
       <br/>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sergiics9&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sergiics9&show_icons=true&theme=radical"/>
       <br/>
     </details>
     <details> 
