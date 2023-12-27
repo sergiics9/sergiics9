@@ -9,7 +9,7 @@
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=Full+Stack+Developer.">
+          <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=25&color=ff0000&center=true&width=410&height=45&lines=Full+Stack+Developer.">
         <br>
             <b>
             ~ Sergi Casiano ~
@@ -45,8 +45,7 @@
         <p>:gear: React, Next.js, Redux, Angular</p>
        <p>:eye: SASS, CSS, Bootstrap</p>
         <p>:minidisc: MongoDB, Node.js , Mongoose, Express</p>
-        <p>:warning: Unit Testing, Jest</p>
-        <p>:nail_care_tone1: Figma</p>
+        <p>:warning: Unit Testing, Jest, Figma</p>
       <br/>
     </details>
     <details>
