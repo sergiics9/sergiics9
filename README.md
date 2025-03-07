@@ -41,10 +41,10 @@
       <details>
   <summary>Skills</summary>
       <br/>
-        <p>:man_technologist: TypeScript, JavaScript, HTML</p>
-        <p>:gear: React, Next.js, Redux, Angular</p>
+        <p>:man_technologist: PHP, TypeScript, JavaScript, JAVA, HTML</p>
+        <p>:gear: React, Next.js, Redux, Angular, Laravel</p>
        <p>:eye: SASS, CSS, Bootstrap</p>
-        <p>:minidisc: MongoDB, Node.js , Mongoose, Express</p>
+        <p>:minidisc: MongoDB, MYSQL, Node.js , Mongoose, Express</p>
         <p>:warning: Unit Testing, Jest</p>
       <br/>
     </details>
