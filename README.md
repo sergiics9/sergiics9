@@ -30,7 +30,6 @@
 <p align="center">
     <samp>
         <h3>Social Media</h3>
-        <a href="https://discord.com/users/752293431283548160" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
         <a href="https://www.linkedin.com/in/sergi-casiano-88a096273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
     </samp>
 </p>
